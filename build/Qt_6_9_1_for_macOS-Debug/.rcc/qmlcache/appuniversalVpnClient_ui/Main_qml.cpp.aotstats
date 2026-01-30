@@ -1,0 +1,20 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 679,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 10
+                    }
+                ],
+                "filePath": "/Users/fellzandlat/universalVpnClient/ui/Main.qml"
+            }
+        ],
+        "moduleId": "universalVpnClient(appuniversalVpnClient)"
+    }
+]

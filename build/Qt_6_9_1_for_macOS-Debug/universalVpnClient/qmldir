@@ -1,0 +1,5 @@
+module universalVpnClient
+typeinfo appuniversalVpnClient.qmltypes
+prefer :/qt/qml/universalVpnClient/
+Main 1.0 ui/Main.qml
+

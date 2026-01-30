@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-771681185f1c2a477823.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "universalVpnClient",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-ebdc6c7e8529a81e6007.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-f903e7278a252af51571.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-1bf418d9fef582b791cc.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-ec8674243ecbad962284.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-d4cc5e2593b2fa953146.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appuniversalVpnClient::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appuniversalVpnClient-Debug-4a23477981df657b0fe1.json",
+					"name" : "appuniversalVpnClient",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appuniversalVpnClient_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appuniversalVpnClient_autogen-Debug-ff58cd127a7a9a1cbcb8.json",
+					"name" : "appuniversalVpnClient_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appuniversalVpnClient_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appuniversalVpnClient_autogen_timestamp_deps-Debug-b72d9beb7d3ad395051b.json",
+					"name" : "appuniversalVpnClient_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appuniversalVpnClient_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appuniversalVpnClient_copy_qml-Debug-1dcd2465e62fd667ab76.json",
+					"name" : "appuniversalVpnClient_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appuniversalVpnClient_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appuniversalVpnClient_copy_res-Debug-540a077e685bb1f17e0a.json",
+					"name" : "appuniversalVpnClient_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appuniversalVpnClient_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appuniversalVpnClient_qmlimportscan-Debug-658c93e250b3f5183e15.json",
+					"name" : "appuniversalVpnClient_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appuniversalVpnClient_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appuniversalVpnClient_qmllint-Debug-3ce94286223deaa82097.json",
+					"name" : "appuniversalVpnClient_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appuniversalVpnClient_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appuniversalVpnClient_qmllint_json-Debug-a41dcf291cbdde8dff61.json",
+					"name" : "appuniversalVpnClient_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appuniversalVpnClient_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appuniversalVpnClient_qmllint_module-Debug-463ccbe2d4e2d3c41250.json",
+					"name" : "appuniversalVpnClient_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appuniversalVpnClient_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appuniversalVpnClient_qmltyperegistration-Debug-faf37abd699d26befa23.json",
+					"name" : "appuniversalVpnClient_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appuniversalVpnClient_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appuniversalVpnClient_aotstats_target-Debug-509eb7b03e7073b2e1e0.json",
+					"name" : "module_appuniversalVpnClient_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/fellzandlat/universalVpnClient/build/Qt_6_9_1_for_macOS-Debug",
+		"source" : "/Users/fellzandlat/universalVpnClient"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,7 @@
+--resource
+/Users/fellzandlat/universalVpnClient/build/Qt_6_9_1_for_macOS-Debug/.qt/rcc/qmake_universalVpnClient.qrc
+--resource
+/Users/fellzandlat/universalVpnClient/build/Qt_6_9_1_for_macOS-Debug/.qt/rcc/appuniversalVpnClient_raw_qml_0.qrc
+--resource
+/Users/fellzandlat/universalVpnClient/build/Qt_6_9_1_for_macOS-Debug/.qt/rcc/appuniversalVpnClient_raw_qml_0_extra_qmldirs.qrc
+/qt/qml/universalVpnClient/ui/Main.qml

@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appuniversalVpnClient_FILE /Users/fellzandlat/universalVpnClient/build/Qt_6_9_1_for_macOS-Debug/appuniversalVpnClient.app/Contents/MacOS/appuniversalVpnClient)
+set(__QT_DEPLOY_TARGET_appuniversalVpnClient_TYPE EXECUTABLE)
