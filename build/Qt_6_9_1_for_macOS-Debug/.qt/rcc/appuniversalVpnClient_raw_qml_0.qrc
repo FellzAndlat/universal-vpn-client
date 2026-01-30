@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/universalVpnClient/">
-    <file alias="ui/Main.qml">/Users/fellzandlat/universalVpnClient/ui/Main.qml</file>
-  </qresource>
-</RCC>
-
