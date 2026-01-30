@@ -1197,6 +1197,8 @@ Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
+#macOS
+.DS_Store
 
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
